@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="Lists.qml">../../Lists.qml</file>
+        <file alias="Assets/PngItem_679828.png">../../Assets/PngItem_679828.png</file>
+        <file alias="Add.qml">../../Add.qml</file>
+        <file alias="Assets/back.png">../../Assets/back.png</file>
+        <file alias="Details.qml">../../Details.qml</file>
+        <file alias="Assets/edit.svg">../../Assets/edit.svg</file>
+        <file alias="Assets/move.png">../../Assets/move.png</file>
+        <file alias="Edit.qml">../../Edit.qml</file>
+        <file alias="Assets/close.png">../../Assets/close.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Lists.qml</file>
+        <file>Assets/PngItem_679828.png</file>
+        <file>Add.qml</file>
+        <file>Assets/back.png</file>
+        <file>Details.qml</file>
+        <file>Assets/edit.svg</file>
+        <file>Assets/move.png</file>
+        <file>Edit.qml</file>
+        <file>Assets/close.png</file>
+    </qresource>
+</RCC>
